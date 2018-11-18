@@ -1,0 +1,35 @@
+1541764112097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CaField\\AppData\\Local\\Temp\\rust_mozprofile.n8whb4gYc92t"
+1541764116559	Marionette	INFO	Listening on port 59425
+1541764117024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 996: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/Cmn/App/Video/CmmAppVideoApi_Js/0,13777,280716135620,00.html, line 1863: unreachable code after return statement
+JavaScript error: https://alerts.ynet.co.il/alertsRss/YnetPicodeHaorefAlertFiles.js?callback=jsonCallback, line 1: ReferenceError: jsonCallback is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 338: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/common/javascript/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 412: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 412: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 412: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 412: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 412: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 412: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 412: ReferenceError: DYO is not defined
+JavaScript warning: https://www.ynet.co.il/images/articlepiclightbox/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ynet.co.il/images/articlepiclightbox/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ynet.co.il/images/articlepiclightbox/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ynet.co.il/images/articlepiclightbox/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 1221: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 1221: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 1221: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 1221: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 1221: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 1221: ReferenceError: DYO is not defined
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 1245: ReferenceError: DYO is not defined
+JavaScript warning: https://www.ynet.co.il/novgnpre/Common/Api/StaticFile/CmmApiStaticFileInclude/0,14179,generator-article-js-v489,00.js, line 124: unreachable code after return statement
+JavaScript warning: https://www.ynet.co.il/novgnpre/Common/Api/StaticFile/CmmApiStaticFileInclude/0,14179,generator-article-js-v489,00.js, line 124: unreachable code after return statement
+JavaScript error: https://www.ynet.co.il/articles/0,7340,L-5391632,00.html#autoplay, line 325: TypeError: iframeEl.offset(...) is null
+[Child 13180, Chrome_ChildThr[Parent 8868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src1541764261234	Marionette	INFO	Stopped listening on port 59425
+[GPU 10660
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
