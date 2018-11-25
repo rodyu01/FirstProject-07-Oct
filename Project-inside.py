@@ -65,7 +65,7 @@ driver.find_element_by_xpath(WINNER).send_keys("BOBKA")
 GIVER = "//*[contains(@data-parsley-required-message,'למי יגידו תודה')]"
 driver.find_element_by_xpath(GIVER).clear()
 driver.find_element_by_xpath(GIVER).send_keys("TSB")
-
+# PIC upload
 driver.find_element_by_name("fileUpload").send_keys(os.path.join(os.getcwd(),"radio-button.png"))
 driver.implicitly_wait(60)
 

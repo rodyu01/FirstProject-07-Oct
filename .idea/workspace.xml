@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c826f403-cbbf-4666-a994-41f87c995bca" name="Default Changelist" comment="" />
+    <list default="true" id="c826f403-cbbf-4666-a994-41f87c995bca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-inside.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project-inside.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9884" />
+          <entry key="py" value="9899" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9884" />
+          <entry key="Python" value="9899" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -63,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project-inside.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="632">
+              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -147,10 +150,6 @@
             <path>
               <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
               <item name="FirstProject-07-Oct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Website-project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
@@ -554,8 +553,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project-inside.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="632">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
         </state>
       </provider>
     </entry>
