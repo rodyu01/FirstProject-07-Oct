@@ -22,7 +22,7 @@ driver.maximize_window()
 
 # SIGN IN
 driver.find_element_by_class_name("seperator-link").click()
-driver.find_element_by_xpath("//input[@placeholder='מייל']").send_keys("korkin@012.net.il")
+driver.find_element_by_xpath("//input[@placeholder='מייל']").send_keys("korkin@mail.net.il")
 driver.find_element_by_xpath("//input[@placeholder='סיסמה']").send_keys("Passw0rd")
 
 driver.find_element_by_xpath("//button[@type='submit']").click()
