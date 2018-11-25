@@ -54,16 +54,21 @@ time.sleep(2)
 
 driver.find_element_by_xpath("//a/span[contains(text(), 'לאיזה אירוע')]").click()
 CAUSE = "//ul/li[contains(text(),'סתם')]"
+# CAUSE
 driver.find_element_by_xpath(CAUSE).click()
 driver.find_element_by_xpath("//*[contains(@placeholder,'מזל טוב')]").clear()
 driver.find_element_by_xpath("//*[contains(@placeholder,'מזל טוב')]").send_keys("Happy 10Xgiving!")
+# WINNER
 WINNER = "//*[contains(@data-parsley-required-message,'מי הזוכה המאושר')]"
 driver.find_element_by_xpath(WINNER).send_keys("BOBKA")
+# GIVER
 GIVER = "//*[contains(@data-parsley-required-message,'למי יגידו תודה')]"
 driver.find_element_by_xpath(GIVER).clear()
 driver.find_element_by_xpath(GIVER).send_keys("TSB")
+
 driver.find_element_by_name("fileUpload").send_keys(os.path.join(os.getcwd(),"radio-button.png"))
 driver.implicitly_wait(60)
+
 driver.find_element_by_class_name("send-now").click()
 driver.find_element_by_xpath("//*[contains(text(), 'ב-SMS')]").click()
 driver.find_element_by_xpath("//*[contains(@placeholder,'ספרות בלבד')]").send_keys("0526626671")
