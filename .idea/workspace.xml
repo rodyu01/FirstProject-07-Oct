@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c826f403-cbbf-4666-a994-41f87c995bca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-inside.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project-inside.py" afterDir="false" />
-    </list>
+    <list default="true" id="c826f403-cbbf-4666-a994-41f87c995bca" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +51,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="220">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project-inside.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+            <state relative-caret-position="60">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -135,8 +132,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -150,6 +149,19 @@
             <path>
               <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
               <item name="FirstProject-07-Oct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuymeProj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuymeProj" type="462c0819:PsiDirectoryNode" />
+              <item name="BuymeProj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website-project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstProject-07-Oct" type="b2602c69:ProjectViewProjectNode" />
@@ -320,10 +332,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1940" height="1100" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19295478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1937698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -530,10 +541,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project.py">
+    <entry file="file://$PROJECT_DIR$/../Website-project/Project-inside.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="720">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
@@ -544,17 +555,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Website-project/Project-inside.py">
+    <entry file="file://$PROJECT_DIR$/Project-inside.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="60">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project-inside.py">
+    <entry file="file://$PROJECT_DIR$/Project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        <state relative-caret-position="220">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
         </state>
       </provider>
     </entry>
